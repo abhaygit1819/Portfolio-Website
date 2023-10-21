@@ -1,1 +1,26 @@
-csv
+Abhay Gupta
+Email-id : abhaygbdn@gmail.com Mobile No.: 6396941705
+LinkedIn
+ACADEMIC DETAILS
+Year	Degree/Exam	Institute	GPA/Marks(%)
+Aug, 2021 - present	BCA	Graphic Era University Dehradun	9.43/10.0
+2020	C.B.S.E	K. R. Education Centre	63.00 %
+2018	C.B.S.E	Jugal Devi Saraswati vidya Mandir	83.00 %
+TECHNICAL SKILLS		
+• Languages C ,C++(proficient) ,JAVA, MS-WOrd, Java,Python, Statistics, MS-Excel, LaTeX.
+• Basic knowledge of front end framework
+PROJECTS
+•	Portfolio Website - using HTML,CSS and JAVASCRIPT, A responsive website. This website is based on my personal details, my skills ,showcases work related details. It is a combination of four webpages, a css file and a javascript file- currently working on it. link
+•	Sentiment analysis on Facebook Comments or post - using bert model we conclude the sentiments of facebook comments using python -currently working on it. link
+•	Temperature Convertor - using HTML, CSS, JAVASCRIPT. In this project we are able to conclude temperature in three famous temperature unit-Kelvin,Celcius,Fahrenheit. link
+SCHOLASTIC ACHIEVEMENTS
+•	Leetcode Profile - https://leetcode.com/21151100/
+•	Internship - Currently Working as a intern in Bharat Intern in the field of web development link
+•	Tech Wizards - participating in mega IT quiz link
+STRENGTH AND HOBBIES
+•	Problem Solving Aptitude
+•	Good Communication Skill
+EXTRA-CURRICULAR ACTIVITY
+•	cognizance IIT Roorkee participate in cognizance technical event of IIT Roorkee. link
+•	GFG DSA workshop at IIT Roorkee
+• NSS Volunteer link
